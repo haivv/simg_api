@@ -16,7 +16,7 @@ $recordDate = date('Y-m-d');
 
 
 $memID = $_POST['memID'];
-$title = $_POST['title'];echo $title;
+$title = $_POST['title'];
 $device = $_POST['device'];
 $timeofTest = $_POST['timeofTest'];
 $result = $_POST['result'];
