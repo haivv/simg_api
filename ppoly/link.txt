@@ -1,2 +1,0 @@
-http://localhost:82/ppoly
-
