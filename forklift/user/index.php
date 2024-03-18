@@ -1,5 +1,5 @@
 <?php
-$conn = mysqli_connect("localhost", "root", "", "forklift");
+$conn = mysqli_connect("localhost", "root", "Simg@", "forklift");
 mysqli_set_charset($conn,"utf8");
 
 if(!isset($_GET["username"]) and !isset($_GET["password"]) ){
